@@ -17,8 +17,7 @@ The goal of this project was to debug, fix, and improve a broken responsive webs
   - [Links](#links)
   - [Built With](#built-with)
   - [Author](#author)
-  - [License](#license)
-
+  
 ---
 
 ## Overview
