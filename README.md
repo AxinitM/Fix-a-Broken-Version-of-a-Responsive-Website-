@@ -71,7 +71,7 @@ The main goals of this project were:
 ## Links
 
 - **Project Description:** [Codecademy Challenge Project](https://www.codecademy.com/journeys/front-end-engineer/paths/fecj-22-improved-styling-with-css/tracks/fecj-22-making-a-website-responsive/modules/wdcp-22-learn-css-documentation-and-debugging-13f52be7-c63f-493b-b67a-306f285dbde0/informationals/f1-2-c1p1-fotomatic)
-- **Live Demo:** [Add live site URL here](https://your-live-site-url.com)
+- **Live Demo:** [Live page URL here](https://axinitm.github.io/Fix-a-Broken-Version-of-a-Responsive-Website-/)
 - **Source Code:** [Add GitHub repository URL here](https://github.com/your-username/website-design-system)
 
 ---
