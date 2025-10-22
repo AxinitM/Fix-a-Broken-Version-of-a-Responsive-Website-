@@ -91,9 +91,3 @@ The main goals of this project were:
 - **Website:** [Andrei Martinenko](https://www.frontender.biz/)  
 - **GitHub:** [@AxinitM](https://github.com/AxinitM)  
 - **Codecademy Profile:** [Andrei Martinenko](https://www.codecademy.com/profiles/system5869051486)
-
----
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
