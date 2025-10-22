@@ -64,7 +64,7 @@ The main goals of this project were:
 
 ## Screenshot
 
-![Screenshot](./resources/images/screenshot.pngscreenshot.png)
+![Screenshot](./resources/images/screenshot.png)
 
 ---
 
